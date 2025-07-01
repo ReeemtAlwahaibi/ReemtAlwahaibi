@@ -2,7 +2,7 @@
 # Hi 👋 I'm Reem Alwahaibi!
 
 🎓 IT Student at Princess Nourah Bint Abdulrahman University  
-🔐 Interested in Cybersecurity, Networking, and Embedded Systems  
+🔐 Interested in Cybersecurity, Networking 
 🌱 Currently exploring ESP32 and learning Cybersecurity
 📍 Based in Riyadh, Saudi Arabia
 
@@ -32,10 +32,10 @@ I'm currently working on beginner-level hardware projects and enhancing my cyber
 ## ⚙️ Tools & Languages
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=flat&logo=espressif&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 
 ---
